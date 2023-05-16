@@ -1,0 +1,15 @@
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.csproj.AssemblyReference.cache
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.AssemblyInfoInputs.cache
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.AssemblyInfo.cs
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.csproj.CoreCompileInputs.cache
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\bin\Debug\net7.0\Sistema de reserva.exe
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\bin\Debug\net7.0\Sistema de reserva.deps.json
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\bin\Debug\net7.0\Sistema de reserva.runtimeconfig.json
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\bin\Debug\net7.0\Sistema de reserva.dll
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\bin\Debug\net7.0\Sistema de reserva.pdb
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.dll
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\refint\Sistema de reserva.dll
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.pdb
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\Sistema de reserva.genruntimeconfig.cache
+C:\Users\SamuelPaiva\source\repos\Sistema de reserva\Sistema de reserva\obj\Debug\net7.0\ref\Sistema de reserva.dll
